@@ -8,7 +8,7 @@
       <p><b>E-mail:2504398315@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/다운 로드_18874216602570475.jpg" width="100%">
+      <img src="/다운 로드_18874216602570475.jpg" width="200%">
     </td>
   </tr>
 </table>
